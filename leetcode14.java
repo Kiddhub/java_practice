@@ -1,4 +1,4 @@
-// Longest Common Prefix
+// https://leetcode.com/problems/longest-common-prefix/
 public class leetcode14 {
     public String longestCommonPrefix(String[] strs) {
         if (strs.length == 0)

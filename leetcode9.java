@@ -1,3 +1,4 @@
+//https://leetcode.com/problems/palindrome-number/
 public class leetcode9{
     public static void main(String[] args){
         int x = 121;

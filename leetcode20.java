@@ -1,4 +1,4 @@
-// Valid Parentheses
+// https://leetcode.com/problems/valid-parentheses/
 import java.util.*;
 public class leetcode20 {
     public static boolean isValid(String s) {

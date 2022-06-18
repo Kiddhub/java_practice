@@ -1,3 +1,4 @@
+//https://leetcode.com/problems/two-sum/
 public class leetcode1 {
     public class Main {
         public static void main(String[] args){
